@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/finch/Dev/stereoVision/calibCaptue/calibCapture.cpp
+/home/finch/Dev/stereoVision/stereoVision/calibCaptue/calibCapture.cpp
 opencv2/highgui/highgui.hpp
-/home/finch/Dev/stereoVision/calibCaptue/opencv2/highgui/highgui.hpp
+/home/finch/Dev/stereoVision/stereoVision/calibCaptue/opencv2/highgui/highgui.hpp
 stdio.h
 -
 string

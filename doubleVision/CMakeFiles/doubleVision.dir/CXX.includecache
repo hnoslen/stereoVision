@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/finch/Dev/stereoVision/doubleVision/doubleVision.cpp
+/home/finch/Dev/stereoVision/stereoVision/doubleVision/doubleVision.cpp
 opencv2/highgui/highgui.hpp
-/home/finch/Dev/stereoVision/doubleVision/opencv2/highgui/highgui.hpp
+/home/finch/Dev/stereoVision/stereoVision/doubleVision/opencv2/highgui/highgui.hpp
 stdio.h
 -
 

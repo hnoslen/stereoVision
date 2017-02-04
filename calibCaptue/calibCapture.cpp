@@ -46,8 +46,8 @@ int main( int argc, const char** argv )
       if((char)c == 't'){
         cvtColor( frame0, gray_image0, CV_BGR2GRAY );
         cvtColor( frame1, gray_image1, CV_BGR2GRAY );
-        imwrite( "../calib/"+std::to_string(captureIndex)+"a.jpg", gray_image0);
-        imwrite( "../calib/"+std::to_string(captureIndex)+"b.jpg", gray_image1);
+        imwrite( "../calibImgs/"+std::to_string(captureIndex)+"a.jpg", gray_image0);
+        imwrite( "../calibImgs/"+std::to_string(captureIndex)+"b.jpg", gray_image1);
         captureIndex++;
       }
     }
