@@ -1,0 +1,3 @@
+/home/finch/Dev/stereoVision/stereoVision/match/CMakeFiles/rebuild_cache.dir
+/home/finch/Dev/stereoVision/stereoVision/match/CMakeFiles/edit_cache.dir
+/home/finch/Dev/stereoVision/stereoVision/match/CMakeFiles/match.dir
